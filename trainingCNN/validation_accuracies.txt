@@ -1,0 +1,17 @@
+Network validation accuracy 
+
+>> load('alexnet224_vggface_6layered_55_aug025.mat')
+Validation accuracy = 0.659698
+>> load('alexnet224_vggface_7layered_60_aug025.mat')
+Validation accuracy = 0.680749
+>> load('alexnet224_vggface_9layered_62_aug025.mat')
+Validation accuracy = 0.690471
+>> load('alexnet224_vggface_10layered_63_aug025.mat')
+Validation accuracy = 0.680437
+>> load('alexnet224_vggface_halfwidth_64_aug025.mat')
+Validation accuracy = 0.641544
+>> load('alexnet224_vggface_doublewidth_70_aug025.mat')
+load('alexnet224_vggface_doublewidth_70_aug025.mat')
+Validation accuracy = 0.700849
+>> load('alexnet224_vggface_aug025NoBiasNorm_65.mat')
+Validation accuracy = 0.727807
